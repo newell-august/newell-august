@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @newell-august
 - 👀 I’m interested in math and cryptography and linguistics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning python, html, css, astro js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
